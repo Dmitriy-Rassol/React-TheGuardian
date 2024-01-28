@@ -1,4 +1,4 @@
-#[React-TheGuardian](https://dmitriy-rassol.github.io/React-TheGuardian/)
+# [React-TheGuardian](https://dmitriy-rassol.github.io/React-TheGuardian/)
 
 # React + Vite
 
